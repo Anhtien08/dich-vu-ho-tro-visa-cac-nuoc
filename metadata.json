@@ -1,0 +1,6 @@
+{
+  "name": "VISA5S - Dịch Vụ Tư Vấn Visa Chuyên Nghiệp",
+  "description": "Dịch vụ hỗ trợ hồ sơ visa xuất nhập cảnh, định cư diện doanh nhân, công tác và du lịch quốc tế với tỉ lệ phê duyệt tối ưu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
